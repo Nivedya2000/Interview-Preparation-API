@@ -25,7 +25,7 @@ It supports **user registration, JWT authentication, admin-managed categorized q
 
 ## 📂 Project Structure
 ```
-interview-api/
+Interview-Preparation-API/
 ├── interview_api/         # Django project settings
 │   ├── settings.py
 │   ├── urls.py
@@ -141,5 +141,4 @@ Contributions are welcome!
 
 ## 📜 License
 This project is licensed under the **MIT License**.
-
 
