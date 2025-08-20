@@ -142,5 +142,4 @@ Contributions are welcome!
 ## 📜 License
 This project is licensed under the **MIT License**.
 # Interview-Preparation-API
-# Interview-Preparation-API
-# Interview-Preparation-API
+
